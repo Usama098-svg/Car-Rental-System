@@ -48,3 +48,6 @@ Scalability: The system is designed to be easily scalable, allowing for the addi
 
 Extensibility: Future improvements or changes (like adding a web or mobile interface) can be made with minimal changes to the core system due to its OOP design.
 
+<h3>📄 License</h3>
+
+This project is licensed under the UA Tech.
