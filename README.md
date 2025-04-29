@@ -15,17 +15,6 @@ Rentals: Records rental transactions, including customer, car, rental dates, and
 
 Payments: Tracks payment information, including the payment status and method used.
 
-<h3>Object-Oriented Design:</h3>
-
-The project is built using OOP principles to ensure modularity and maintainability:
-
-
-Classes: Represent entities like Customer, Car, Rental, and Payment.
-
-Encapsulation: Data is encapsulated within the classes, and appropriate methods are provided for accessing and manipulating the data.
-
-Inheritance and Polymorphism: Allows for future extensibility, such as adding different types of cars or rental plans.
-
 <h3>Technologies Used:</h3>
 
 Java: The primary programming language for implementing the system’s functionality.
